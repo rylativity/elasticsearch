@@ -1,0 +1,5 @@
+jupyterlab
+elasticsearch
+Pillow 
+sentence_transformers
+matplotlib
